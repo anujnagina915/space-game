@@ -1,0 +1,6 @@
+{
+  "name": "OmniArcade - Classic Web Mini-Games",
+  "description": "Play 11 classic retro web mini-games including Space Invaders, Asteroids, Frogger, Pac-Man, Flappy Bird, Lunar Lander, Pong, Minesweeper, 2048, Memory Match, Tic-Tac-Toe & Connect 4 with single-file HTML exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
